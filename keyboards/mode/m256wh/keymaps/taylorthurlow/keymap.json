@@ -143,7 +143,7 @@
       "KC_TRNS"
     ],
     [
-      "KC_NO",
+      "ANY(QK_RBT)",
       "KC_F1",
       "KC_F2",
       "KC_F3",
