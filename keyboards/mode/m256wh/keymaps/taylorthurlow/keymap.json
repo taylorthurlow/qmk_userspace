@@ -66,7 +66,7 @@
       "KC_UP",
       "MO(2)",
       "KC_LALT",
-      "KC_LCTL",
+      "KC_RCTL",
       "KC_LGUI",
       "LT(3,KC_SPC)",
       "KC_RALT",
@@ -205,7 +205,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_RCTL",
+      "KC_NO",
       "KC_NO",
       "KC_NO",
       "KC_NO"
